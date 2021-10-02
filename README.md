@@ -15,5 +15,5 @@ Goals
 - that's it
 
 ### toc
-- [Cosmos]() (3mos)
-- [Cosmos]() (6mos)
+- [Cosmos](https://github.com/Stehfyn/babysteps/tree/main/Cosmos/3mos/src) (3mos)
+- [Cosmos](https://github.com/Stehfyn/babysteps/tree/main/Cosmos/6mos) (6mos)
