@@ -7,12 +7,7 @@ babysteps
 Philosophy
 ---
 1. Practice self-sufficiency in program design (purposefully ignoring resources in order to make mistakes)
-2. Identify ideas surrounding the pitfalls of poor working memory and generating code (encourage journey into mistakes)  
-
-Goals
----
-- Nurture the path into knowledge (poggers)
-- that's it
+2. Identify ideas surrounding the pitfalls of poor working memory and generating code 
 
 ### toc
 - [Cosmos](https://github.com/Stehfyn/babysteps/tree/main/Cosmos/3mos/src) (3mos)
